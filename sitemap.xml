@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://2.71astro.com/about/</loc>
+    <lastmod>2019-06-13T00:22:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2.71astro.com/posts/</loc>
+    <lastmod>2019-06-13T00:08:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2.71astro.com/</loc>
+    <lastmod>2019-06-12T21:45:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2.71astro.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://2.71astro.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
