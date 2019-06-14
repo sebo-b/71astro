@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on 2.71 astronomy</title>
+    <link>https://2.71astro.com/articles/</link>
+    <description>Recent content in Articles on 2.71 astronomy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2019 00:08:26 +0200</lastBuildDate>
+    
+	<atom:link href="https://2.71astro.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

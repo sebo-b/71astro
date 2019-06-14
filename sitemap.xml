@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://2.71astro.com/about/why/</loc>
+    <lastmod>2019-06-13T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2.71astro.com/about/why271/</loc>
+    <lastmod>2019-06-13T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2.71astro.com/about/equipment/</loc>
+    <lastmod>2019-06-13T13:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://2.71astro.com/about/</loc>
     <lastmod>2019-06-13T00:22:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://2.71astro.com/posts/</loc>
+    <loc>https://2.71astro.com/articles/</loc>
     <lastmod>2019-06-13T00:08:26+02:00</lastmod>
   </url>
   
