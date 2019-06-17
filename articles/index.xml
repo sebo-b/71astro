@@ -11,5 +11,23 @@
 	<atom:link href="https://2.71astro.com/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Glossary &amp; abbreviations</title>
+      <link>https://2.71astro.com/articles/glossary/</link>
+      <pubDate>Mon, 17 Jun 2019 22:42:32 +0200</pubDate>
+      
+      <guid>https://2.71astro.com/articles/glossary/</guid>
+      <description>This is work in progress
+AFOV Apparent field of view - TODO
+Airy disk TODO
+Aperture TODO
+arcsec / arcmin Seconds of arc / minutes of arc - it is a unit of angle equal to:
+\[ 1\:arcmin = \frac{1}{60}\:degree \]
+\[ 1\:arcsec = \frac{1}{60}\:arcmin = \frac{1}{3600}\:degree \]
+Back-focus TODO
+Bias frame TODO
+Bortle Scale Nine level scale that qualifies night sky&#39;s brightness. It is used to measure light pollution. More info is available on Wikipedia</description>
+    </item>
+    
   </channel>
 </rss>
