@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>2.71 astronomy  | DIY flatfield panel</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.55.6" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    
+    
+      <link href="/dist/css/app.d98f2eb6bcd1eaedb7edf166bd16af26.css" rel="stylesheet">
+    
+
+    
+
+    
+      
+    
+
+    
+
+    <meta property="og:title" content="DIY flatfield panel" />
+<meta property="og:description" content="Summer is almost over, so I found some time to write down the first article.
+Some time ago I started thinking about making good quality, from both technical and aesthetic point of view, flatfield panel which can be used in the field powered by 12V battery. Two obvious possibilities are to either buy a cheap LED panel lamp in a home-improvement store or buy a dedicated flatfield panel (like Aurora which I heard is great)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://2.71astro.com/articles/flatfield_panel/" />
+<meta property="article:published_time" content="2019-08-28T11:32:00&#43;02:00"/>
+<meta property="article:modified_time" content="2019-08-28T11:32:00&#43;02:00"/>
+
+<meta itemprop="name" content="DIY flatfield panel">
+<meta itemprop="description" content="Summer is almost over, so I found some time to write down the first article.
+Some time ago I started thinking about making good quality, from both technical and aesthetic point of view, flatfield panel which can be used in the field powered by 12V battery. Two obvious possibilities are to either buy a cheap LED panel lamp in a home-improvement store or buy a dedicated flatfield panel (like Aurora which I heard is great).">
+
+
+<meta itemprop="datePublished" content="2019-08-28T11:32:00&#43;02:00" />
+<meta itemprop="dateModified" content="2019-08-28T11:32:00&#43;02:00" />
+<meta itemprop="wordCount" content="508">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="DIY flatfield panel"/>
+<meta name="twitter:description" content="Summer is almost over, so I found some time to write down the first article.
+Some time ago I started thinking about making good quality, from both technical and aesthetic point of view, flatfield panel which can be used in the field powered by 12V battery. Two obvious possibilities are to either buy a cheap LED panel lamp in a home-improvement store or buy a dedicated flatfield panel (like Aurora which I heard is great)."/>
+
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-142083449-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"
+        onload="renderMathInElement(document.body)"></script>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-near-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    
+    <a href="https://2.71astro.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      2.71 astronomy
+    </a>
+    
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/articles/" title="Articles page">
+              Articles
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+
+    <header class="mt4 w-100">
+      <p class="f6 b helvetica tracked">
+          
+        ARTICLES
+      </p>
+      <h1 class="f1 athelas mb1">DIY flatfield panel</h1>
+      
+      <time class="f6 mv4 dib tracked" datetime="2019-08-28T11:32:00&#43;02:00">August 28, 2019</time>
+      
+      
+    </header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Summer is almost over, so I found some time to write down the first article.</p>
+
+<p>Some time ago I started thinking about making good quality, from both technical and aesthetic point of view, flatfield panel which can be used in the field powered by 12V battery. Two obvious possibilities are to either buy a cheap LED panel lamp in a home-improvement store or buy a dedicated flatfield panel (like Aurora which I heard is great).</p>
+
+<p>I haven't gone with these two approaches because in my case I need min. 200mm diameter panel, so in the first approach, you usually get something big and bulky, in the second you spend quite a huge amount of money. Also, many DIY panels are glued, taped, etc so these are far away from my aesthetic expectations.</p>
+
+<p>After thinking, reading and checking I went for the following setup:</p>
+
+<ul>
+<li>electroluminescent circle panel (25cm diameter),</li>
+<li>12V inverter,</li>
+<li>laser cut opaline plexiglass,</li>
+<li>a couple of screws, especially nice nickel binding screws.</li>
+</ul>
+
+<p>BOM (shipping included):</p>
+
+<ul>
+<li>EL panel (including inventer) from aliexpress: $36.50</li>
+<li>plexiglass (including cutting) from the local market: $16.50</li>
+<li>5 binding screws (mainly cost of shipping): $4.00</li>
+</ul>
+
+<p>Total: $57</p>
+
+<p>EL panel is actually blinking with high frequency, you need to get it dim to make sure exposition time is enough to smooth it out, I went with opaline plexiglass with 20%-30% of transparency, it seems to work well. When it is lit up IMHO it doesn't need to be super evenly illuminated as the focus of your telescope is anyway set up to stars/infinity which will blur up the image of the panel. Also from a spectrum perspective, it needs to give you enough light on each channel, but if you calibrate each channel separately not necessarily equal ADU per channel.</p>
+
+<p>Here is the project for plexiglass (CC) (click for a larger view):</p>
+
+<p><a href="flatfield_project.png"><figure><img src="flatfield_project.png" alt="Flatfield project"></figure></a></p>
+
+<p>I decided to cut a hole in the bottom of the inverter and to mount it directly to the panel, this makes this device one integrated piece of hardware without extra cables or so. Also, the EL panel is a little bit bulky in the place where wires are connected. These are the reasons for the hole in the plexiglass.</p>
+
+<p>All pieces collected together:</p>
+
+<p><figure><img src="elements.jpg" alt="Flatfield elements"></figure></p>
+
+<p>Details of the inverter:</p>
+
+<p><figure><img src="inverter.jpg" alt="Inverter"></figure></p>
+
+<p>To prepare inverter, you need to:</p>
+
+<ul>
+<li>cut the hole,</li>
+<li>cut off case feets to make it flat on the surface of plexiglas, and</li>
+<li>solder new wires to the bottom (I also used antistatic foil to isolate PCB and changed the connector to XT30).</li>
+</ul>
+
+<p>Bottom of the prepared inverter:</p>
+
+<p><figure><img src="inverter_bottom.jpg" alt="Bottom of the inverter"></figure></p>
+
+<p>After it is all put together, the connector and the bulky part of EL panel fully fit in the hole, so the whole thing is flat.</p>
+
+<p><figure><img src="almost_done.jpg" alt="Almost done"></figure></p>
+
+<p>Removing foils, screwing it together with binding screws (which I had to shorten a little bit) and the final product looks like the following:</p>
+
+<p><figure><img src="flatfield_panel_v.jpg" alt="Flatfield panel"></figure></p>
+
+<p>Here are the first flat frames taken by this panel. These are integrations of 20 subs per channel for LRGB.</p>
+
+<p>(TODO - attach image)</p>
+
+<p>Feel free to leave me a comment if you like it (or not).</p>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6">
+      
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "2-71astronomy" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      
+      
+      </div>
+    </section>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://2.71astro.com/" >
+    &copy; 2019 2.71 astronomy
+  </a>
+    <div>
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+    
+
+  <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>
