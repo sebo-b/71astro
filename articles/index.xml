@@ -17,9 +17,7 @@
       <pubDate>Thu, 29 Aug 2019 11:54:41 +0200</pubDate>
       
       <guid>https://2.71astro.com/articles/ticfocuser/</guid>
-      <description>Initial note: I&#39;m currently using the INDI platform on Linux. Without developing a driver, this project won&#39;t work on ASCOM.
-This is a project I actually finished many months ago. I wanted to extend my astrophoto setup with motor focuser and I haven&#39;t found any DIY focuser project which fullfils my requirements. So for these reasons I decided to create something from scratch:
- DIY focuser is much cheaper than a manufactured one, DIY is more fun, I wanted something small and simple for astrophotography, without an external controller, I wanted a focuser which can be connected directly to a computer (PC, Laptop or RaspberryPi), so USB seemed to be the best choice, As always I wanted something aesthetic.</description>
+      <description>A project of motor focuser based on the Pololu Tic controller.</description>
     </item>
     
     <item>
@@ -28,8 +26,7 @@ This is a project I actually finished many months ago. I wanted to extend my ast
       <pubDate>Wed, 28 Aug 2019 11:32:00 +0200</pubDate>
       
       <guid>https://2.71astro.com/articles/flatfield_panel/</guid>
-      <description>Summer is almost over, so I found some time to write down the first article.
-Some time ago I started thinking about making good quality, from both technical and aesthetic point of view, flatfield panel which can be used in the field powered by 12V battery. Two obvious possibilities are to either buy a cheap LED panel lamp in a home-improvement store or buy a dedicated flatfield panel (like Aurora which I heard is great).</description>
+      <description>A project of flatfield panel.</description>
     </item>
     
     <item>
@@ -38,17 +35,7 @@ Some time ago I started thinking about making good quality, from both technical 
       <pubDate>Mon, 17 Jun 2019 22:42:32 +0200</pubDate>
       
       <guid>https://2.71astro.com/articles/glossary/</guid>
-      <description>This is work in progress
-ADU TODO
-AFOV Apparent field of view - TODO
-Airy disk TODO
-Aperture TODO
-arcsec / arcmin Seconds of arc / minutes of arc - it is a unit of angle equal to:
-\[ 1\:arcmin = \frac{1}{60}\:degree \]
-\[ 1\:arcsec = \frac{1}{60}\:arcmin = \frac{1}{3600}\:degree \]
-Back-focus TODO
-Bias frame TODO
-Bortle Scale Nine level scale that qualifies night sky&#39;s brightness. It is used to measure light pollution.</description>
+      <description>Astro and astrophotography glossary. It also contains links to appropriate articles, so partially it can be treated as the index.</description>
     </item>
     
   </channel>
