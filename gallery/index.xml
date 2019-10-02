@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on 2.71 astronomy</title>
+    <link>https://2.71astro.com/gallery/</link>
+    <description>Recent content in Gallery on 2.71 astronomy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 22:54:56 +0200</lastBuildDate>
+    
+	<atom:link href="https://2.71astro.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>M81 - Bode&#39;s Nebula</title>
+      <link>https://2.71astro.com/gallery/bodes_nebula/</link>
+      <pubDate>Wed, 02 Oct 2019 23:05:44 +0200</pubDate>
+      
+      <guid>https://2.71astro.com/gallery/bodes_nebula/</guid>
+      <description>
+Subs: 40 x 150s L, 10 x 150s B, 24 x 150s G, 10 x 150s B Setup: MN190, ASI1600pro + ZWO LRGB filters, OAG + ASI290mc Acquisition: KStart / Ekos Processing: Pixinsight  </description>
+    </item>
+    
+  </channel>
+</rss>

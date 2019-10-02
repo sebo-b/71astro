@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>M81 - Bode&#39;s Nebula</title>
+      <link>https://2.71astro.com/gallery/bodes_nebula/</link>
+      <pubDate>Wed, 02 Oct 2019 23:05:44 +0200</pubDate>
+      
+      <guid>https://2.71astro.com/gallery/bodes_nebula/</guid>
+      <description>
+Subs: 40 x 150s L, 10 x 150s B, 24 x 150s G, 10 x 150s B Setup: MN190, ASI1600pro + ZWO LRGB filters, OAG + ASI290mc Acquisition: KStart / Ekos Processing: Pixinsight  </description>
+    </item>
+    
+    <item>
       <title>Scale per pixel</title>
       <link>https://2.71astro.com/articles/scale_per_pixel/</link>
       <pubDate>Mon, 30 Sep 2019 21:49:08 +0200</pubDate>
